@@ -14,4 +14,4 @@ jobs:
         server: 205.144.171.181
         username: aulapbi-001
         password: aulapbi123
-        server-dir: aulapbi/gustavo/
+        server-dir: aulapbi/joao/
